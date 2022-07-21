@@ -1,7 +1,7 @@
 
 # MVP for ALP and Problem demonstation
 
-This repo is related [this](link) question, regarding weired filtering behavior.
+This repo is related [this](https://answers.sap.com/questions/13686697/cds-filtering-not-applying-properly.html) question, regarding weired filtering behavior.
 
 ## Starting the service
 
