@@ -12,6 +12,7 @@ entity SimpleTest       as
         {
             TRIP_ID,
             Headers.numberOfTrips,
+            Headers.CREATE_DATE,
             Headers.createWeekNumber_db,
                         strftime(
                 '%W',
